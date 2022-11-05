@@ -40,9 +40,7 @@ For PDF generation:
 4. Convert to PDFs and combine into one document -- easier to print:
 
    ```sh
-   cd /path/to/task-cards-out/
-   for f in *.svg ; do (inkscape $f -D --export-margin=2px --export-pdf=$f.pdf &) ; done
-   pdfunite *.svg.pdf cards.pdf
+   ./post-process.sh /path/to/task-cards-out/
    ```
 
 
