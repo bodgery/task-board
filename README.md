@@ -21,7 +21,7 @@ For PDF generation:
    following columns:
 
    Area | Type | Urgency | Title | Contact | Description | Time Estimate
-   -----+------+---------+-------+---------+-------------+---------------
+   -----|------|---------|-------|---------|-------------|---------------
    Shop Classroom | One Time | urgent | Classroom Mitre Saw | Billy Joe | Set up the Craftsman mitre saw table in the woodshop classroom. The table is folded and standing on end in the corner of the classroom. Put the Bosch mitre saw on it and make a sign telling users to use dust collection. | 1h
    Hardware | One Time | urgent | New Hardware Area | Jane Smith | Move the tall white shelves from laser area to the new hardware area next to the red general toolbox. Secure it to the wall. Move hardware stuff currently piled on the table between the blacksmithing and cnc-laser areas to white shelves. | 2h
 
